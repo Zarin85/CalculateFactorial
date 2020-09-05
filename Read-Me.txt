@@ -1,0 +1,3 @@
+To run this project:
+1. First to install all the package run 'npm install' in the terminal (in the project location)
+2. To run the application run 'npm start' in the terminal
